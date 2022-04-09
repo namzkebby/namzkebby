@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 <br>
-!doctype html>
+<!doctype html>
 <html>
      <head>
 	      <title>The Octopus</title>
